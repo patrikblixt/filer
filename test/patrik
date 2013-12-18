@@ -1,0 +1,10 @@
+total 40
+drwxr-xr-x  4 patrik patrik 4096 dec  9 15:14 .
+drwxr-xr-x 28 patrik patrik 4096 dec  9 15:04 ..
+-rw-r--r--  1 patrik patrik    0 dec  9 15:10 ab.c
+drwxrwxr-x  3 root   root   4096 sep  9 14:25 data
+-rwxr-xr-x  1 patrik patrik 3643 mar  4  2013 exo-terminal-emulator.desktop
+-rwxr-xr-x  1 patrik patrik 8059 sep  5 09:33 firefox.desktop
+-rw-------  1 patrik patrik 6918 sep  5 10:25 pcmanfm.desktop
+-rw-------  1 patrik patrik  254 sep  5 10:10 spotify.desktop
+drwxr-xr-x  2 patrik patrik 4096 dec  9 15:15 test
